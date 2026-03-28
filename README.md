@@ -70,7 +70,7 @@ gnatmake -O2 quantum_safe_file_cli.adb
 ```
 
 ### Usage
-Bash# Encrypt a message
+# Encrypt a message
 ./quantum_safe_file_cli encrypt
 
 # Decrypt
