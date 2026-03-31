@@ -35,6 +35,7 @@ Use at your own risk.
 - Written primarily in Ada with Open Quantum Safe (liboqs) + OpenSSL
 
 ---
+![qsfe arch](./arch-diag.png)
 
 ### Requirements
 
