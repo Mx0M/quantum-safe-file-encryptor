@@ -1,5 +1,4 @@
-# quantum-safe-file-encryptor
-
+# Quantum-Safe File Encryptor (QSFE)
 **A simple hybrid post-quantum file encryption tool** written in **Ada** with a small C helper.
 
 ### Overview
